@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# TÍTULO DO PROJETO: INFOGAMES
 
-`CURSO`
+`CURSO`: Análise e Desenvolvimento de Sistemas - EAD
 
-`DISCIPLINA`
+`DISCIPLINA`: Projeto: Desenvolvimento de uma Aplicação Interativa - Turma 06 - 2024/1
 
-`SEMESTRE`
+`SEMESTRE`: Eixo 2- 2024.2
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
