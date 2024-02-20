@@ -11,10 +11,10 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Caio Costa Miranda
-* Enzo Wilker Alves Félix
 * Márcia Verônica Costa Miranda
 * Pablo Vinícius Ramos Lopes
 * Rafael Fernandes Mourão
+* Raissa Saunier
 * Willian Barbosa de Andrade
 
 ## Orientador
