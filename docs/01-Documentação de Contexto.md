@@ -3,6 +3,15 @@
 
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
+No cenário atual e dinâmico da tecnologia de software e mídias digitais, um ramo da indústria que que se mantém como uma força persistente e vibrante é a indústria de jogos eletrônicos, mantendo-se como um dos principais pilares de entretenimento na sociedade por mais de duas décadas. Este setor, constantemente inovador, atrai um público vasto de diversas faixas etárias, redefinindo-se continuamente e introduzindo novas formas de engajamento.
+
+Com o avanço tecnológico e a disseminação do acesso à internet, os jogos eletrônicos emergiram como uma forma de entretenimento popular, especialmente entre os jovens. Contudo, diante da sucessão de inovações, a constante introdução de novos jogos, mecânicas, plataformas e movimentações empresariais criaram um panorama desafiador. Nesse contexto, surge a necessidade de uma ferramenta que ofereça foco, atenção e transparência ao público, fornecendo informações atualizadas, notícias e lançamentos da indústria de jogos eletrônicos.
+
+Este projeto tem como foco desenvolver de um software dedicado a suprir essa lacuna, concentrando-se na verificação, compilação, filtragem e apresentação acessível de informações atualizadas e pertinentes sobre os jogos de maior interesse para o público. Este aplicativo visa atender à crescente demanda por um recurso centralizado e confiável, que permita aos entusiastas e consumidores da indústria de jogos acessarem de maneira eficiente e compreensível as últimas novidades e informações relevantes.
+
+Ao atender a essa necessidade, não só facilitaremos o acesso à informação, mas também promoveremos maior engajamento dentro da comunidade de jogos eletrônicos. Assim, nosso projeto visa se tornar um aliado essencial para os apaixonados por jogos, profissionais do setor e entusiastas, contribuindo para a consolidação de um ambiente informacional mais acessível no universo dinâmico e empolgante dos jogos eletrônicos.
+
+
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
