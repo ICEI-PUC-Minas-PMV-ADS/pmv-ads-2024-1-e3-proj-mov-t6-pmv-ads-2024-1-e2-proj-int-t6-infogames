@@ -48,7 +48,28 @@ Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o 
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+*Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.*
+
+Abaixo, os diagramas, baseados na Modelagem BPMN, dos Fluxos da aplicação a ser desenvolvida no projeto.
+
+### Processo 1 –FLUXO GERAL DO APLICATIVO
+
+![1-Diagr-Modelo-Infogames-BPMN](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e2-proj-int-t6-infogames/assets/145228139/875debba-1ca5-4868-865f-a5c2cd2811a9)
+
+### Processo 2 –FLUXO DE LOGIN E RECUPEAÇÃO DE SENHA DO USUÁRIO
+
+![2-Diagr-Tela Login-Infogames-BPMN](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e2-proj-int-t6-infogames/assets/145228139/c8336e73-89b1-452d-9b68-eccddba1a217)
+
+### Processo 3 –FLUXO DE CADASTRO DO USUÁRIO
+
+![3-Diagr-Tela Cadastro-Infogames-BPMN](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e2-proj-int-t6-infogames/assets/145228139/2d1bcbfa-ff1a-4f5f-b0d6-49addba9b4c1)
+
+### Processo 4 –FLUXO TELA DO USUÁRIO - PORTAL DE NOTÍCIAS E ESTATÍSTICAS DE JOGOS
+
+![4-Diagr-Tela Usuário-Infogames-BPMN](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e2-proj-int-t6-infogames/assets/145228139/a174a342-8906-4327-b565-c7fda23ea824)
+
+
+
 
 ### Processo 1 – NOME DO PROCESSO
 
