@@ -77,17 +77,52 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+
+
+|  ID   | Descrição                | Prioridade |
+|-------|---------------------------------|----|
+| RF-001 |  Cadastro de Usuário:   | Alta  | 
+|       |  •	Permitir que os usuários criem e mantenham contas individuais.|     |
+|       |  •	Coletar dados de usuário, como nome, senha, endereço de e-mail, etc.|       |
+| RF-002 |  Portal de Notícias:   | Alta  | 
+|       |  •	Exibir notícias atualizadas sobre a indústria de jogos.|     |
+|       |  •	Gerenciar o conteúdo de publicação ou edição de notícias.|       |
+|       |  •	Possibilitar que os usuários comentem ou contribuam com notícias.|       |
+|       |  •	Possibilitar o usuário personalizar seu portal de notícias.|       |
+| RF-003 |  Estatística de Jogos:| Alta   | 
+|       |  •	Integrar informações de preços com APIs de diferentes lojas online.|       |
+|       |  •	Apresentar estatísticas de jogos, incluindo número de jogadores online.|       |
+| RF-004 | Interface Atrativa:| Média | 
+|       |  •	Construir um design de fácil manipulação e responsivo para diferentes dispositivos.|       |
+|       |  •	Prover uma interface com Facilidade de navegação e busca eficiente de informações.|       |
+
+**Prioridade: Alta / Média / Baixa. 
+
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Segurança: | ALTA | 
+|       | • Implementar medidas de segurança, garantindo a segurança dos dados os quais o usuário não quer compartilhar.|       | 
+|       | • Implementar autenticação robusta para proteger contas.|      | 
+|RNF-002| Aplicação Responsiva: |  ALTA | 
+|       | • Garantir que o aplicativo seja responsivo para diferentes dispositivos, como desktops, tablets e smartphones.|      | 
+|RNF-003| Legal: | ALTA | 
+|       | • Garantir a privacidade dos dados dos usuários em relação à Lei Geral de Proteção de Dados Pessoais - LGPD.|      | 
+|       | • Adesão a direitos autorais e licenças de uso de dados provenientes das APIs.|      |
+|RNF-004| Usabilidade: |  MÉDIA | 
+|       | • O site deve permitir que os usuários o utilizem sem necessidade de treinamento.|      |
+|       | • Interface amigável para diferentes faixas etárias.|      |
+|RNF-005|Desempenho: | BAIXA | 
+|       | • Tempo de resposta para informações aparecerem na tela deve ser menor que 03 segundos em 90% dos casos.|      |
+|       | • Tempos de respostas rápidos para garantir uma experiência de usuário fluida.|      |
+|RNF-006| Integração com Plataformas Externas: |  BAIXA | 
+|       | • Utilizar APIs para integrar serviços para obter informações adicionais e avaliações.|      |
+
+**Prioridade: Alta / Média / Baixa.
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
