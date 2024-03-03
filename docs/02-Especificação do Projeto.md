@@ -103,7 +103,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
+|--------|-------------------------|----|
 |RNF-001| Segurança: | ALTA | 
 |       | • Implementar medidas de segurança, garantindo a segurança dos dados os quais o usuário não quer compartilhar.|       | 
 |       | • Implementar autenticação robusta para proteger contas.|      | 
@@ -157,6 +157,13 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 ## Diagrama de Casos de Uso
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+
+O Diagrama de Casos de Uso para a plataforma desse projeto está descrito na Figura abaixo:
+![Diagrama-Casos-Uso-InfoGames-v1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e2-proj-int-t6-infogames/assets/145228139/ec4d856c-39d2-4e1c-9ca6-1b80d21d6c93)
+
+O Diagrama de Classes para o projeto INFOGAMES está descrito na Figura abaixo:
+![Diagrama-Classes-InfoGames-v1-jpeg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e2-proj-int-t6-infogames/assets/145228139/7f3e6ad9-0878-42e5-b0e4-b9ffaf4a7e88)
+
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
 
