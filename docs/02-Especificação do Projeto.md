@@ -182,8 +182,10 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 O Diagrama de Casos de Uso para a plataforma desse projeto está descrito na Figura abaixo:
 ![Diagrama-Casos-Uso-InfoGames-v1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e2-proj-int-t6-infogames/assets/145228139/ec4d856c-39d2-4e1c-9ca6-1b80d21d6c93)
 
-O Diagrama de Classes para o projeto INFOGAMES está descrito na Figura abaixo:
-![Diagrama-Classes-InfoGames-v1-jpeg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e2-proj-int-t6-infogames/assets/145228139/7f3e6ad9-0878-42e5-b0e4-b9ffaf4a7e88)
+O Diagrama de Classes para o projeto INFOGAMES está descrito nas Figuras abaixo:
+![Diagrama-Classes-InfoGames-OK 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e2-proj-int-t6-infogames/assets/145228139/919bf338-1d5b-42fa-b5e8-60ef26993735)
+
+![Diagrama-Classes-InfoGames-OK 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e2-proj-int-t6-infogames/assets/145228139/1ed0d81a-fd07-4620-af4f-c9991b75ebe6)
 
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
